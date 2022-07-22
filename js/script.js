@@ -21,3 +21,5 @@ let a = prompt("What was last film u watched?", ""),
     personalMovieDB.movies[c] = d;
 
     console.log(personalMovieDB);
+
+console.log("just okay");
